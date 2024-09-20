@@ -6,4 +6,4 @@
 **Semestre:** 8vo semestre
 
 **Materia:** Diseño de aplicaciones web
-**Profesor:** Cristopher Gerardo Gaytán Díaz
+**Profesor:** Jesús Alberto Garza Guerrero
